@@ -1,0 +1,1 @@
+EPIC: Efficient Per-Iteration Checkpointing by Reusing Gradient Compression for DNN Training
